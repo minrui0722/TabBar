@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86d54d4e-7b0a-47ed-9e97-473be0a99b8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwSC6VElyJ1PC83RHeayoWZ9ze" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/web/Vuejs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JetBrains\workplace\tabbar\tabbar\src\assets\img\tabbar" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d54d4e-7b0a-47ed-9e97-473be0a99b8c" name="Default Changelist" comment="" />
+      <created>1583852032139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583852032139</updated>
+      <workItem from="1583852033895" duration="487000" />
+      <workItem from="1583852550565" duration="2052000" />
+      <workItem from="1583888334898" duration="969000" />
+      <workItem from="1583890412076" duration="1791000" />
+      <workItem from="1583892330327" duration="1843000" />
+      <workItem from="1583894414896" duration="1792000" />
+      <workItem from="1583896231898" duration="670000" />
+      <workItem from="1583931250338" duration="36000" />
+      <workItem from="1583931433411" duration="58000" />
+      <workItem from="1583931517521" duration="26000" />
+      <workItem from="1583931590328" duration="206000" />
+      <workItem from="1583970696176" duration="140000" />
+      <workItem from="1584026235294" duration="8000" />
+      <workItem from="1584026268341" duration="369000" />
+      <workItem from="1584026667683" duration="3024000" />
+      <workItem from="1584066990062" duration="4391000" />
+      <workItem from="1584086546350" duration="2846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583894705167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1583894705167" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1584089873421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584089873421" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584071069404">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584071069404" />
+  </component>
+</project>
